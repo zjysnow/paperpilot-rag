@@ -1,0 +1,9 @@
+{
+  "id": "paperpilot-rag",
+  "name": "Paper Pilot Rag",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Automatically send Obsidian notes to a local Dify knowledge base.",
+  "author": "Albert Zou",
+  "isDesktopOnly": true
+}
